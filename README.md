@@ -24,6 +24,15 @@ The motivation is to investigate ways to support muscle activation during period
 ## Product concept
 
 ![RehabPulse product concept — illustrative only](assets/rehabpulse-product-concept.png)
+## Actual Prototype
+
+### Hardware and circuit
+![Prototype hardware](assets/113c69c5-9c4a-4752-a950-8aee039827fa.jpg)
+
+### Additional project photos
+![Prototype setup](assets/7877ab75-01e0-4c86-a388-e4faea0017a0.jpg)
+
+![Project photo](assets/Image%20Oct%2011%2C%202026%2C%2007_02_21%20AM.png)
 
 *Illustrative design concept only. This image is not a photograph of a manufactured device. Any interface values or specifications shown in the concept image are not verified specifications of the current prototype.*
 
